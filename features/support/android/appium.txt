@@ -4,7 +4,7 @@
     # Use automationName with UiAutomator2, because default automator
     # not recognize any elements on the screen
     deviceName = "emulator-5554"
-    ##automationName = "UiAutomator"
+    ##automationName = "UiAutomator2"
     autoGrantPermissions = "true"
     unicodeKeyboard	 = "true"
     newCommandTimeout = "3600"

@@ -22,7 +22,11 @@ bundle install
 
 ## Android ##
 É preciso habilitar e adicionar uma digital no emulador Android,
-ao acessar a tela para adicionar digital execute o comando: 
+acesse a opção para configurar a digital: 
+```shell
+Settings > Security  > Fingerprint
+```
+Inicie a configuração, quando solicitado a digital execute o comando:
 ```shell
 adb -e emu finger touch 1 
 ```
