@@ -1,0 +1,8 @@
+[caps]
+    platformName = "iOS"
+    platformVersion = "12.4"
+    deviceName = "iPhone 7"
+    app = "../test_touch/features/app/ios/product/LoginDemo.app"
+    allowTouchIdEnroll = true
+    autoDismissAlerts = true
+    automationName = "XCUITest"
